@@ -1,0 +1,27 @@
+h3{
+    color:red;
+    font-size:x-large;
+    font-weight: bold;
+}
+
+h4{
+    font-size:medium;
+    font-weight: bold;
+    color:white;
+}
+
+p{
+    color:white;
+    font-size: medium;
+    font-weight: bold;
+}
+
+body{   
+    background-color: black;
+}
+#Arınma{
+    position:absolute;
+    top: 250px;
+    left:1200px;
+
+}

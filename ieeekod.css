@@ -36,86 +36,110 @@ left:1145px;
 top:150px;}
 
 
-#Arınma_gecesi{position:absolute;
+#Arınma_gecesi{
+position:absolute;
 top:552px;
 left:290px;
 }
-#savaş{position: absolute;
+
+#savaş{
+position: absolute;
 top:541px;
 left:570px;
 }
 
-#Ölüm_defteri{position:absolute;
+#Ölüm_defteri{
+position:absolute;
 top:550px;
 left:863px;
 }
-#Kızıl_Gökler{position:absolute;
+#Kızıl_Gökler{
+position:absolute;
 top:550px;
 left:1150px;
 }
-#yenialt_başlık3{color:white;
+#yenialt_başlık3
+{
+    color:white;
 }
-#Terminal_foto{position: absolute;
+#Terminal_foto{
+position: absolute;
 top:980px
 }
-#HerŞeyin_Teorisi{position:absolute;
+#HerŞeyin_Teorisi{
+position:absolute;
 top:980px;
 left:297px;
 }
-#AşkTesadüfleri_Sever2{position: absolute;
+#AşkTesadüfleri_Sever2{
+position: absolute;
 top:980px;
 left:584px;
 }
-#Geçen_Yaz{position: absolute;
+#Geçen_Yaz{
+position: absolute;
 top:980px;
 left:869px;
 }
-#Before_Midnight{position:absolute;
+#Before_Midnight{
+position:absolute;
 top:980px;
 left:1156px;
 }
-#yenialt_başlık4{color:white;
-    position: absolute;
-    top:1350px;
+#yenialt_başlık4{
+color:white;
+position: absolute;
+top:1350px;
 }
-#John_Wick{position:absolute;
+#John_Wick{
+position:absolute;
 top:1418px;
 }
-#Tom{position: absolute;
+#Tom{
+position: absolute;
 top:1418px;
 left:297px;
 }
-#Spiderman{position: absolute;
+#Spiderman{
+position: absolute;
 top:1418px;
 left:580px;
 }
-#Aquaman{position: absolute;
+#Aquaman{
+position: absolute;
 top:1418px;
 left:865px;
 }
-#Sherlock{position:absolute;
+#Sherlock{
+position:absolute;
 top:1418px;
 left:1155px;
 }
-#yenialt_başlık5{position: absolute;
+#yenialt_başlık5{
+position: absolute;
 top:1800px;
 }
-#fantastik{position:absolute;
+#fantastik{
+position:absolute;
 top:1867px;
 }
-#noel{position:absolute;
+#noel{
+position:absolute;
 top:1869px;
 left:300px;
 }
-#kahramanlık{position:absolute;
+#kahramanlık{
+position:absolute;
 top:1869px;
 left:590px;
 }
-#sihir{position:absolute;
+#sihir{
+position:absolute;
 top:1869px;
 left:880px;
 }
-#çiko{position:absolute;
+#çiko{
+position:absolute;
 top:1869px;
 left:1170px;
 }

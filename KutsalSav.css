@@ -1,0 +1,27 @@
+h3{
+    color:red;
+    font-size: x-large;
+    font-weight: bold;
+}
+
+h4{
+    color:white;
+    font-size: medium;
+    font-weight: bold;
+}
+
+p{
+    color:white;
+    font-size: medium;
+    font-weight: bold;
+}
+
+#Savaş_foto{
+    position: absolute;
+    top:250px;
+    left:1200px;
+}
+
+body{
+    background-color: black;
+}
