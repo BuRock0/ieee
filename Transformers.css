@@ -1,0 +1,24 @@
+h4{
+    color:white;
+    
+}
+body{
+    background-color:black;
+}
+h3{
+    color:red;
+    font-size: x-large;
+}
+#oyuncular_ses{
+    font-size:x-large;
+    color:red;
+}
+p{color:white;
+    font-weight: bold;
+    font-size: medium;
+}
+#transformers{position:fixed;
+top:250px;
+left:1200px;
+
+}

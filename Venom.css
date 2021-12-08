@@ -1,0 +1,26 @@
+h3{
+    color:white;
+}
+h4{
+    color:white;
+}
+body{
+    background-color: black;
+}
+#başlık3 {
+    color:red;
+font-size: x-large;
+}
+#başlık3_2 {
+    color:red;
+font-size: x-large;
+}
+p{
+    color:white;
+font-weight: bold;
+}
+#venom{
+    position: absolute;
+    top:250px;
+    left:1200px;
+}

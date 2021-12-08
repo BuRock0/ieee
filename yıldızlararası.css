@@ -1,0 +1,27 @@
+h4
+{
+color:white;
+font-size: medium;
+font-weight: bold;}
+p
+{
+color:white;
+font-size: medium;
+font-weight: bold;}
+
+h3
+{
+color:red;
+font-size: x-large;
+font-weight: bold;
+}
+body{
+    background-color: black;
+}
+
+#Yıldızlararası_foto{
+position: fixed;
+top:250px;
+left:1200px;
+
+}

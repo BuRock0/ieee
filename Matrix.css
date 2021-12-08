@@ -1,0 +1,32 @@
+#konu_başlık{
+    color:red;
+    font-size: x-large;
+}
+body{
+    background-color: black;
+}
+
+#konu{
+    color:white;
+    font-size: medium;
+    font-weight: bold;
+
+}
+
+#oyuncular_başlık{color:red;
+font-size: x-large;
+font-weight: bold;}
+
+
+
+p{
+    color:white;
+    font-size: medium;
+    font-weight: bold;
+}
+
+#matrix_foto{
+position: absolute;
+top:250px;
+left:1200px;
+}
